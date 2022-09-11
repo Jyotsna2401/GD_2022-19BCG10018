@@ -1,5 +1,7 @@
 # GD_2022-19BCG10018
 
+#How to run
+Download Doofus Folder -> Open in Unity -> Load MainMenu Scene -> Play
 
 #LINK TO BUILD
 https://github.com/Jyotsna2401/GD_2022_19BCG10018/tree/master
