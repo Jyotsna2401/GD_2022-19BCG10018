@@ -1,6 +1,7 @@
 # GD_2022-19BCG10018
 
-#How to run
+#HOW TO PLAY
+
 Download Doofus Folder -> Open in Unity -> Load MainMenu Scene -> Play
 
 #LINK TO BUILD
